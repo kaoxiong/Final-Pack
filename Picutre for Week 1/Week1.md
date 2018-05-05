@@ -6,7 +6,7 @@
 Proof of knowlegde:
 [Website I used](https://www.virtualbox.org/wiki/Downloads)
 
-![](https://github.com/kaoxiong/Final-Pack/blob/master/Picutre%20for%20Week%201/GithubAccount.PNG)
+![](https://github.com/kaoxiong/Final-Pack/blob/master/Picutre%20for%20Week%201/VMboxdownload.PNG)
 
 ### Where to download Debian live ISO
 Proof of my knowlegdge:

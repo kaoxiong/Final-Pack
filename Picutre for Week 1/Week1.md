@@ -19,7 +19,7 @@ Proof of knowledge:
 
 Step1 :
 
-![](Final-Pack/Picutre for Week 1/Steps of installing debain/1.png)
+![](https://github.com/kaoxiong/Final-Pack/blob/master/Picutre%20for%20Week%201/Steps%20of%20installing%20debain/1.png)
 
 Step2 :
 

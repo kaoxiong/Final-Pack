@@ -5,11 +5,13 @@
 ### How to install VirtualBox
 Proof of knowlegde:
 [Website I used](https://www.virtualbox.org/wiki/Downloads)
+
 ![](Final-Pack/Picutre for Week 1/VMboxdownload.PNG)
 
 ### Where to download Debian live ISO
 Proof of my knowlegdge:
 [The website I used](https://cdimage.debian.org/debian-cd/current-live/amd64/iso-hybrid/)
+
 ![](Final-Pack/Picutre for Week 1/Debianiso.PNG)
 
 ### Install Debian Linux on VirtualBox

@@ -37,7 +37,7 @@ The `find` command finds a file in a directory.
 Where I learn [Github command](https://try.github.io/levels/1/challenges/1)
 
 
-## Additional Shell Exercise
+## Additional Shell Exercise I did
 
 1. [Shell Component](http://linuxcommand.org/lc3_lts0010.php)
 2. [Navigation](http://linuxcommand.org/lc3_lts0020.php)

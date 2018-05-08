@@ -36,6 +36,13 @@ The `find` command finds a file in a directory.
 
 Where I learn [Github command](https://try.github.io/levels/1/challenges/1)
 
+## Work with Text Editors
+
+I mainly use nano
+
+Proof of knowlegde: 
+
+`nano <textname>.<filetype>`
 
 ## Additional Shell Exercise I did
 

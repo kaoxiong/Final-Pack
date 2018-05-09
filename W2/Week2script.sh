@@ -1,4 +1,4 @@
-#!bin/bash
+
 
 echo "Hello there"
 echo "Making file 1 and 2"

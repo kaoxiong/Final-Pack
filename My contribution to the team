@@ -1,0 +1,24 @@
+# Team position
+
+
+Name : Kao Xiong
+
+Role : Documentation
+
+I had the role of documentor in my team
+here is the documentation I worked on:
+[Documentation](https://github.com/taimaishuze/N-Arctica-Web-Server/wiki/Documentation)
+
+## What I contributed
+
+As the team's documentor I had to understand everything everyone was doing
+and translate it to understandable bite for the other team member or other
+group.
+
+The biggest thing I had to focus on Apache, because Apache was already a running
+software on the server no one had the oppertunity to work on it. Therefore 
+I had to first figure out that Apache was the platform because no one was certain.
+I then had to figure out the version of apache we were using, the os we were running apache on, 
+and finally the hardest one for me, how apache work. I had to go through the offical [Apache documentation](https://httpd.apache.org/docs/2.4/)
+and, with the help of Matthew, figure outhow exactly Apache communicated out website
+to the world.
